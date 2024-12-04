@@ -33,6 +33,10 @@ Echo offers a complete suite of tools out of the box, including:
 
 ---
 
+## Installation
+
+    npm i echo-e2e dotenv
+
 ## Configuration
 
 1. To get started, configure your environment variables in a `.env` file:

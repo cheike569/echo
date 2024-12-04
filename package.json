@@ -1,5 +1,5 @@
 {
-  "name": "echo",
+  "name": "echo-e2e",
   "type": "module",
   "version": "1.0.0",
   "main": "dist/index.js",
@@ -9,9 +9,9 @@
     "execute": "npx tsx testlab",
     "build": "npx tsc && npx fix-esm-import-path dist/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["phone call", "twilio", "ngrok", "openai", "deepgram", "cartesia", "ai calls", "ai voice testing"],
+  "author": "Christoph Heike",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/express": "^5.0.0",
