@@ -1,8 +1,12 @@
 # Echo - An End-to-End Testing Framework for AI Phone Calls
 
-**Testing phone calls is hard. Testing AI-powered phone calls is even harder.**  
-Echo simplifies this process by providing an end-to-end testing framework tailored for AI phone calls, enabling you to
+**Testing phone calls is hard. Testing AI-powered phone calls is even harder.** 
+
+As the owner of [Greetmate.ai](https://www.greetmate.ai), we faced challenges in doing quality assurance for our platform. Ensuring that phone calls were testable and consistently performed as expected was very important for us.
+
+*Echo* simplifies this process by providing an end-to-end testing framework tailored for AI phone calls, enabling you to
 easily write, execute, and analyze tests.
+
 
 ---
 
