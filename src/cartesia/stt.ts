@@ -70,7 +70,7 @@ export default async function openCartesiaWebsocket(callWebsocketServer: Websock
                 model_id: "sonic-english",
                 voice: {
                     mode: "id",
-                    id: process.env.VOICE || "a0e99841-438c-4a64-b679-ae501e7d6091",
+                    id: process.env.VOICE_ID || "a0e99841-438c-4a64-b679-ae501e7d6091",
                 },
                 output_format: {
                     container: "raw",

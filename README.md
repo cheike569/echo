@@ -50,6 +50,7 @@ TWILIO_AUTH_TOKEN=         # Twilio authentication token
 TWILIO_FROM_NUMBER=        # Phone number to initiate calls
 NGROK_AUTHTOKEN=           # Ngrok authentication token
 CARTESIA_API_KEY=          # API key for Cartesia (text-to-speech)
+VOICE_ID=                  # Voice ID for Cartesia
 
 # Optional
 MAX_CALL_LIFETIME_SECONDS=600  # Maximum call duration (default: 600 seconds)
